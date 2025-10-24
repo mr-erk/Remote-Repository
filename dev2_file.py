@@ -5,3 +5,4 @@ print('Feachure from person2, but its dev3')
 =======
 print('Feachure from person2, but it's dev3')
 >>>>>>> dev3
+print('New developer joins guys.')
