@@ -16,8 +16,5 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Установить зависимости
-        run: pip install -r requirements.txt
-
       - name: Запустить файл dev_file.py
         run: python dev_file.py
