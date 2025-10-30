@@ -75,4 +75,4 @@ schedule = load_schedule(schedule_path)
 
 card = input("Введите номер пропуска: ")
 allowed, reason = can_enter(card, passes, schedule)
-print("✅ Доступ разрешён" if allowed else "⛔ Доступ запрещён", "-", reason)
+print("✅ Доступ разрешён" if allowed else "⛔ Доступ запрещён", "-", reason)print('change after stashing.')
