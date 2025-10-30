@@ -2,7 +2,7 @@ name: CI Example
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "development" ]
 
 jobs:
   test:
