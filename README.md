@@ -1,4 +1,4 @@
 # My Project
 
 ## Description
-Simple Python project with CI/CD via GitHub Actions.
+Simple Python project with CI/CD via GitHub Actions
